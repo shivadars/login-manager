@@ -1,0 +1,9 @@
+{
+    "name": "shivadars/login-manager",
+    "description": "Simple PHP and MySQL login manager",
+    "require": {
+        "php": ">=8.0",
+        "ext-mysqli": "*"
+    }
+}
+
